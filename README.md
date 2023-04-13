@@ -20,7 +20,7 @@ To directly use in Python:
 run `python TMX-extractor.py --inputfile <Your tmx file> --outputprefix <file name of output> --src <source language> --tgt <target language>`
 
 This is an example:
-python TMX-extractor.py --inputfile 'ecb2017.UNIQUE.en-it.tmx' --outputprefix 'en-it' --src 'en' --tgt 'it'
+`python TMX-extractor.py --inputfile 'ecb2017.UNIQUE.en-it.tmx' --outputprefix 'en-it' --src 'en' --tgt 'it'`
 
 # Warning
 Be careful! Memory usage may be explosively increase when the input file's size gets bigger.
