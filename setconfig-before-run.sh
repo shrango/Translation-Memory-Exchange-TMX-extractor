@@ -1,4 +1,4 @@
-input_tmx_file='ecb2017.UNIQUE.en-it.tmx'
+input_tmx_file='example/ecb2017.UNIQUE.en-it.tmx'
 output_prefix='en-it'
 sourcelang='en'
 targetlang='it'
