@@ -7,7 +7,9 @@ E.g. the European languages datasets: https://tilde-model.s3-eu-west-1.amazonaws
 or WMT19 FI-EN dataset https://s3.amazonaws.com/web-language-models/paracrawl/release3/en-fi.bicleaner07.tmx.gz, etc.
 
 # Recent Update
-04/22/23: Scripts to extract MONOlingual texts from WMT newstest20xx files. Scripts and examples are kept in 'monolingual(seg-format)'.
+04/22/23: Scripts to extract MONOlingual texts from WMT newstest20xx files. 
+
+Scripts and examples are kept in `monolingual(seg-format)`.
 
 
 # Requirement for this script
