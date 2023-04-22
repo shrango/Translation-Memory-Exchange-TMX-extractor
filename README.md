@@ -6,6 +6,10 @@ Some of open-sourced translation datasets provide parallel dataset in "tmx" form
 E.g. the European languages datasets: https://tilde-model.s3-eu-west-1.amazonaws.com/Tilde_MODEL_Corpus.html,
 or WMT19 FI-EN dataset https://s3.amazonaws.com/web-language-models/paracrawl/release3/en-fi.bicleaner07.tmx.gz, etc.
 
+# Recent Update
+04/22/23: Scripts to extract MONOlingual texts from WMT newstest20xx files. Scripts and examples are kept in 'monolingual(seg-format)'.
+
+
 # Requirement for this script
 BeautifulSoup is needed to parse the `xml` format.
 
